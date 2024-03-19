@@ -7,7 +7,6 @@ void main()
     int num = 5;
 
     int count = 1;
-    // int add = 0;
 
     for (int i = 1; i <= num; i++)
     {
