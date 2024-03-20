@@ -1,0 +1,26 @@
+// Write a programe to print following pattern
+// half pyramid
+#include <stdio.h>
+void main()
+{
+     int count = 0;
+     int flash = 2;
+     int number = 1;
+     printf("1");
+     printf("\n");
+
+     while (flash < 8)
+     {
+          while (count < flash)
+          {
+               printf("%d ", number);
+               count = count + 1;
+               number++;
+          }
+          // printf("*");
+          printf("\n");
+          number = 1;
+          count = 0;
+          flash = flash + 1;
+     }
+}
