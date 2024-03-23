@@ -5,7 +5,6 @@ void printstar()
     printf("****************************************************\n");
 }
 
-
 void main()
 {
     printstar();
