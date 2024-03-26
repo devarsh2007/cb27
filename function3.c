@@ -7,12 +7,12 @@ void sub(int a,int b)
 {
 
     if(a > b){
-        printf("positive substraction : ",a-b);
+        printf("positive substraction : %d ",a-b);
     }
 
     else if(b>a)
     {
-        printf("positive substraction : ",b-a);
+        printf("positive substraction : %d ",b-a);
     }
 
     else{
