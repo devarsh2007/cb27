@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 1) make a program that caluclate area of triangle with function
 
+=======
+1) make a program that caluclate area of triangle with function
+
+>>>>>>> 8fb1a367b09dceaceda62db3aba42823c30cccea
 2) make a program that print asci value of given number
