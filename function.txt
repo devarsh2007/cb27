@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Functions in C language 
 ----------------------------------
 what is function 
@@ -86,4 +85,3 @@ void main()
 {
 	printstar(); //calling function printstar to print 35 astrik on new line 
 }
->>>>>>> 8fb1a367b09dceaceda62db3aba42823c30cccea
